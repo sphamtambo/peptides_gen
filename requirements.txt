@@ -1,0 +1,4 @@
+matplotlib==3.5.1
+numpy==1.23.3
+torch==1.13.0
+tqdm==4.64.1
