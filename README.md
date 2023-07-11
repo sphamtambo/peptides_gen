@@ -20,14 +20,14 @@ The project structure is organized as follows:
 - models/
     - [models.py](models/models.py)
 - notebooks/
-    - [param_search.ipynb](notebooks/param_search.py)
+    - [param_search.ipynb](notebooks/param_search.ipynb)
 - reports/
     - ...
 - [main.py](main.py)
 - [setup.py](setup.py)
 - [requirements.txt](requirements.txt)
 - [LICENSE](LICENSE)
-- [README.md](README)
+- [README.md](README.md)
 
 ## Usage
 
